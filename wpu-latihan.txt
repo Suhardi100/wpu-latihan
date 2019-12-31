@@ -2,3 +2,5 @@ Latihan pertama
 - mendapatkan info tentang git
 - mencari tahu tentang git
 - memahami git
+- memahami istilah-istilah dalam git
+- mempelajari cara membuat project
