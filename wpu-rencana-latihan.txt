@@ -1,0 +1,4 @@
+Rencana latihan:
+- Mengenal git lebih mendalam
+- Membuat project baru
+- Membuat percabangan
