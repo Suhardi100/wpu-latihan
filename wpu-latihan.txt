@@ -1,0 +1,4 @@
+Latihan pertama
+- mendapatkan info tentang git
+- mencari tahu tentang git
+- memahami git
